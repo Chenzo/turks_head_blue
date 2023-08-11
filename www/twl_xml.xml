@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<team>
+	<teaminformation>
+		<name>Turks Head Clan</name>
+		<url>http://www.turksheadclan.com</url>
+		<email>daver@turksheadclan.com</email>
+		<irc channel="#Turksheadclan">irc.gamesnet.net</irc>
+		<status>Active</status>
+		<founder>Daver_J</founder>
+		<description>Group of HardCore Gamers from far and near....  
+</description>
+	</teaminformation>
+	<competitioninformation>
+		<ladder name="Rainbow Six 3: Raven Shield 4v4 Team Survival">
+			<ladderlink>
+				<httplink>http://www.teamwarfare.com/viewladder.asp?ladder=Rainbow+Six+3%3A+Raven+Shield+4v4+Team+Survival</httplink>
+				<xmllink>http://www.teamwarfare.com/xml/viewladder.asp?ladder=Rainbow+Six+3%3A+Raven+Shield+4v4+Team+Survival</xmllink>
+			</ladderlink>
+			<rank>48</rank>
+			<wins>8</wins>
+			<losses>17</losses>
+			<forfeits>0</forfeits>
+			<match status="Defending">
+				<opponentname>The Bullet Prophets</opponentname>
+				<opponentlink>
+					<htmllink>http://www.teamwarfare.com/viewteam.asp?team=The+Bullet+Prophets</htmllink>
+					<xmllink>http://www.teamwarfare.com/xml/viewteam_v2.asp?team=The+Bullet+Prophets</xmllink>
+				</opponentlink>
+				<matchdate>Monday, November 3 10:00 PM EST</matchdate>
+				<map name="RvS: Private Airport 2 (Night)" maporder="1">
+					<options>
+						<SideSelection>Green</SideSelection>
+					</options>
+				</map>
+				<map name="RvS: Oil Refinery" maporder="2">
+					<options>
+						<SideSelection>Red</SideSelection>
+					</options>
+				</map>
+				<map name="RvS: Penthouse" maporder="3">
+					<options>
+						<SideSelection>Green</SideSelection>
+					</options>
+				</map>
+			</match>
+			<roster>
+				<player name=".BLIND">
+					<joindate>7/6/2003</joindate>
+					<position>Team Captain</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=%2EBLIND</htmllink>
+					</links>
+				</player>
+				<player name="[THC]Alias">
+					<joindate>4/16/2003</joindate>
+					<position>Team Captain</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=%5BTHC%5DAlias</htmllink>
+					</links>
+				</player>
+				<player name="[THC]Deathwish">
+					<joindate>4/25/2003</joindate>
+					<position>Player</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=%5BTHC%5DDeathwish</htmllink>
+					</links>
+				</player>
+				<player name="[THC]FeralShrew">
+					<joindate>7/9/2003</joindate>
+					<position>Player</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=%5BTHC%5DFeralShrew</htmllink>
+					</links>
+				</player>
+				<player name="[THC]Funk.On.Junk">
+					<joindate>4/22/2003</joindate>
+					<position>Player</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=%5BTHC%5DFunk%2EOn%2EJunk</htmllink>
+					</links>
+				</player>
+				<player name="[THC]GMan">
+					<joindate>7/14/2003</joindate>
+					<position>Player</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=%5BTHC%5DGMan</htmllink>
+					</links>
+				</player>
+				<player name="[THC]Guenther">
+					<joindate>4/25/2003</joindate>
+					<position>Player</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=%5BTHC%5DGuenther</htmllink>
+					</links>
+				</player>
+				<player name="[THC]LisaDog">
+					<joindate>4/21/2003</joindate>
+					<position>Player</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=%5BTHC%5DLisaDog</htmllink>
+					</links>
+				</player>
+				<player name="[THC]M_Modisch">
+					<joindate>4/15/2003</joindate>
+					<position>Team Captain</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=%5BTHC%5DM%5FModisch</htmllink>
+					</links>
+				</player>
+				<player name="[THC]Moneyshot">
+					<joindate>4/20/2003</joindate>
+					<position>Team Captain</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=%5BTHC%5DMoneyshot</htmllink>
+					</links>
+				</player>
+				<player name="[THC]ShinGouki">
+					<joindate>4/22/2003</joindate>
+					<position>Player</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=%5BTHC%5DShinGouki</htmllink>
+					</links>
+				</player>
+				<player name="[THC]Wolfgang">
+					<joindate>7/25/2003</joindate>
+					<position>Team Captain</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=%5BTHC%5DWolfgang</htmllink>
+					</links>
+				</player>
+				<player name="[THC]Wyatt_Earp">
+					<joindate>9/13/2003</joindate>
+					<position>Player</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=%5BTHC%5DWyatt%5FEarp</htmllink>
+					</links>
+				</player>
+				<player name="aethelwulf">
+					<joindate>4/16/2003</joindate>
+					<position>Player</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=aethelwulf</htmllink>
+					</links>
+				</player>
+				<player name="Chenzo">
+					<joindate>4/20/2003</joindate>
+					<position>Team Captain</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=Chenzo</htmllink>
+					</links>
+				</player>
+				<player name="Daver_J">
+					<joindate>4/14/2003</joindate>
+					<position>Team Founder</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=Daver%5FJ</htmllink>
+					</links>
+				</player>
+				<player name="Kel">
+					<joindate>4/20/2003</joindate>
+					<position>Player</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=Kel</htmllink>
+					</links>
+				</player>
+				<player name="LoneEagle">
+					<joindate>4/26/2003</joindate>
+					<position>Player</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=LoneEagle</htmllink>
+					</links>
+				</player>
+				<player name="MTechnik">
+					<joindate>4/17/2003</joindate>
+					<position>Team Captain</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=MTechnik</htmllink>
+					</links>
+				</player>
+				<player name="Rator">
+					<joindate>10/15/2003</joindate>
+					<position>Player</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=Rator</htmllink>
+					</links>
+				</player>
+				<player name="Slicer">
+					<joindate>4/24/2003</joindate>
+					<position>Player</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=Slicer</htmllink>
+					</links>
+				</player>
+			</roster>
+		</ladder>
+		<ladder name="Rainbow Six 3: Raven Shield 7v7 Team Survival">
+			<ladderlink>
+				<httplink>http://www.teamwarfare.com/viewladder.asp?ladder=Rainbow+Six+3%3A+Raven+Shield+7v7+Team+Survival</httplink>
+				<xmllink>http://www.teamwarfare.com/xml/viewladder.asp?ladder=Rainbow+Six+3%3A+Raven+Shield+7v7+Team+Survival</xmllink>
+			</ladderlink>
+			<rank>23</rank>
+			<wins>7</wins>
+			<losses>14</losses>
+			<forfeits>3</forfeits>
+			<match status="Defending">
+				<opponentname>&#208;&#235;&#229;th &#197;w&#229;it&#167; &#165;&#242;&#250;</opponentname>
+				<opponentlink>
+					<htmllink>http://www.teamwarfare.com/viewteam.asp?team=%D0%EB%E5th+%C5w%E5it%A7+%A5%F2%FA</htmllink>
+					<xmllink>http://www.teamwarfare.com/xml/viewteam_v2.asp?team=%D0%EB%E5th+%C5w%E5it%A7+%A5%F2%FA</xmllink>
+				</opponentlink>
+				<matchdate>Wednesday, October 29 10:00 PM EST</matchdate>
+				<map name="RvS: Private Airport 2 (Night)" maporder="1">
+					<options>
+						<SideSelection>Red</SideSelection>
+					</options>
+				</map>
+				<map name="RvS: Oil Refinery" maporder="2">
+					<options>
+						<SideSelection>Red</SideSelection>
+					</options>
+				</map>
+				<map name="RvS: Private Airport" maporder="3">
+					<options>
+						<SideSelection>Green</SideSelection>
+					</options>
+				</map>
+			</match>
+			<roster>
+				<player name=".BLIND">
+					<joindate>7/6/2003</joindate>
+					<position>Team Captain</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=%2EBLIND</htmllink>
+					</links>
+				</player>
+				<player name="[THC]Alias">
+					<joindate>4/9/2003</joindate>
+					<position>Team Captain</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=%5BTHC%5DAlias</htmllink>
+					</links>
+				</player>
+				<player name="[THC]Deathwish">
+					<joindate>4/25/2003</joindate>
+					<position>Player</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=%5BTHC%5DDeathwish</htmllink>
+					</links>
+				</player>
+				<player name="[THC]FeralShrew">
+					<joindate>7/9/2003</joindate>
+					<position>Player</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=%5BTHC%5DFeralShrew</htmllink>
+					</links>
+				</player>
+				<player name="[THC]Funk.On.Junk">
+					<joindate>4/22/2003</joindate>
+					<position>Player</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=%5BTHC%5DFunk%2EOn%2EJunk</htmllink>
+					</links>
+				</player>
+				<player name="[THC]GMan">
+					<joindate>7/14/2003</joindate>
+					<position>Player</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=%5BTHC%5DGMan</htmllink>
+					</links>
+				</player>
+				<player name="[THC]Guenther">
+					<joindate>4/25/2003</joindate>
+					<position>Player</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=%5BTHC%5DGuenther</htmllink>
+					</links>
+				</player>
+				<player name="[THC]LisaDog">
+					<joindate>4/21/2003</joindate>
+					<position>Player</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=%5BTHC%5DLisaDog</htmllink>
+					</links>
+				</player>
+				<player name="[THC]M_Modisch">
+					<joindate>4/20/2003</joindate>
+					<position>Team Captain</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=%5BTHC%5DM%5FModisch</htmllink>
+					</links>
+				</player>
+				<player name="[THC]Moneyshot">
+					<joindate>4/10/2003</joindate>
+					<position>Team Captain</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=%5BTHC%5DMoneyshot</htmllink>
+					</links>
+				</player>
+				<player name="[THC]ShinGouki">
+					<joindate>4/10/2003</joindate>
+					<position>Player</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=%5BTHC%5DShinGouki</htmllink>
+					</links>
+				</player>
+				<player name="[THC]Wolfgang">
+					<joindate>7/25/2003</joindate>
+					<position>Team Captain</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=%5BTHC%5DWolfgang</htmllink>
+					</links>
+				</player>
+				<player name="[THC]Wyatt_Earp">
+					<joindate>9/13/2003</joindate>
+					<position>Player</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=%5BTHC%5DWyatt%5FEarp</htmllink>
+					</links>
+				</player>
+				<player name="aethelwulf">
+					<joindate>4/11/2003</joindate>
+					<position>Player</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=aethelwulf</htmllink>
+					</links>
+				</player>
+				<player name="Chenzo">
+					<joindate>4/11/2003</joindate>
+					<position>Team Captain</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=Chenzo</htmllink>
+					</links>
+				</player>
+				<player name="Daver_J">
+					<joindate>4/9/2003</joindate>
+					<position>Team Founder</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=Daver%5FJ</htmllink>
+					</links>
+				</player>
+				<player name="Kel">
+					<joindate>4/20/2003</joindate>
+					<position>Player</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=Kel</htmllink>
+					</links>
+				</player>
+				<player name="LoneEagle">
+					<joindate>4/26/2003</joindate>
+					<position>Player</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=LoneEagle</htmllink>
+					</links>
+				</player>
+				<player name="MTechnik">
+					<joindate>4/9/2003</joindate>
+					<position>Team Captain</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=MTechnik</htmllink>
+					</links>
+				</player>
+				<player name="Rator">
+					<joindate>10/15/2003</joindate>
+					<position>Player</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=Rator</htmllink>
+					</links>
+				</player>
+				<player name="Slicer">
+					<joindate>4/24/2003</joindate>
+					<position>Player</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=Slicer</htmllink>
+					</links>
+				</player>
+			</roster>
+		</ladder>
+		<league name="Rainbow Six 3: Raven Shield Composite 5v5">
+			<leaguelink>
+				<htmllink>http://www.teamwarfare.com/viewleague.asp?league=Rainbow+Six+3%3A+Raven+Shield+Composite+5v5</htmllink>
+				<xmllink>n/a</xmllink>
+			</leaguelink>
+			<conference>West</conference>
+			<division>Eclipse</division>
+			<matchinformation>
+				<match status="Home">
+					<opponentname>Anarchists</opponentname>
+					<opponentlink>
+						<htmllink>http://www.teamwarfare.com/viewteam.asp?team=Anarchists</htmllink>
+						<xmllink>http://www.teamwarfare.com/xml/viewteam_v2.asp?team=Anarchists</xmllink>
+					</opponentlink>
+					<map name="RvS: Meat Packing Plant (Bomb)" maporder="1" />
+					<matchdate>10/30/2003</matchdate>
+				</match>
+				<match status="Home">
+					<opponentname>Severed Ties/Dirt Nap Squad</opponentname>
+					<opponentlink>
+						<htmllink>http://www.teamwarfare.com/viewteam.asp?team=Severed+Ties%2FDirt+Nap+Squad</htmllink>
+						<xmllink>http://www.teamwarfare.com/xml/viewteam_v2.asp?team=Severed+Ties%2FDirt+Nap+Squad</xmllink>
+					</opponentlink>
+					<map name="RvS: Island Estate 2 - Dawn (Pilot)" maporder="1" />
+					<matchdate>11/6/2003</matchdate>
+				</match>
+				<match status="Home">
+					<opponentname>-NFA-</opponentname>
+					<opponentlink>
+						<htmllink>http://www.teamwarfare.com/viewteam.asp?team=%2DNFA%2D</htmllink>
+						<xmllink>http://www.teamwarfare.com/xml/viewteam_v2.asp?team=%2DNFA%2D</xmllink>
+					</opponentlink>
+					<map name="RvS: Penthouse (Bomb)" maporder="1" />
+					<matchdate>11/13/2003</matchdate>
+				</match>
+			</matchinformation>
+			<roster>
+				<player name=".BLIND">
+					<joindate>9/30/2003</joindate>
+					<position>Player</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=%2EBLIND</htmllink>
+					</links>
+				</player>
+				<player name="[THC]Alias">
+					<joindate>9/30/2003</joindate>
+					<position>Team Captain</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=%5BTHC%5DAlias</htmllink>
+					</links>
+				</player>
+				<player name="[THC]Deathwish">
+					<joindate>9/30/2003</joindate>
+					<position>Player</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=%5BTHC%5DDeathwish</htmllink>
+					</links>
+				</player>
+				<player name="[THC]GMan">
+					<joindate>10/3/2003</joindate>
+					<position>Player</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=%5BTHC%5DGMan</htmllink>
+					</links>
+				</player>
+				<player name="[THC]LisaDog">
+					<joindate>9/30/2003</joindate>
+					<position>Player</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=%5BTHC%5DLisaDog</htmllink>
+					</links>
+				</player>
+				<player name="[THC]ShinGouki">
+					<joindate>10/7/2003</joindate>
+					<position>Player</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=%5BTHC%5DShinGouki</htmllink>
+					</links>
+				</player>
+				<player name="[THC]Wolfgang">
+					<joindate>9/30/2003</joindate>
+					<position>Player</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=%5BTHC%5DWolfgang</htmllink>
+					</links>
+				</player>
+				<player name="[THC]Wyatt_Earp">
+					<joindate>10/1/2003</joindate>
+					<position>Player</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=%5BTHC%5DWyatt%5FEarp</htmllink>
+					</links>
+				</player>
+				<player name="aethelwulf">
+					<joindate>9/30/2003</joindate>
+					<position>Player</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=aethelwulf</htmllink>
+					</links>
+				</player>
+				<player name="Chenzo">
+					<joindate>9/30/2003</joindate>
+					<position>Team Captain</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=Chenzo</htmllink>
+					</links>
+				</player>
+				<player name="Daver_J">
+					<joindate>9/23/2003</joindate>
+					<position>Team Founder</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=Daver%5FJ</htmllink>
+					</links>
+				</player>
+				<player name="LoneEagle">
+					<joindate>10/2/2003</joindate>
+					<position>Player</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=LoneEagle</htmllink>
+					</links>
+				</player>
+				<player name="Rator">
+					<joindate>10/15/2003</joindate>
+					<position>Player</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=Rator</htmllink>
+					</links>
+				</player>
+			</roster>
+		</league>
+		<league name="Rainbow Six 3: Raven Shield Team Survival 5v5">
+			<leaguelink>
+				<htmllink>http://www.teamwarfare.com/viewleague.asp?league=Rainbow+Six+3%3A+Raven+Shield+Team+Survival+5v5</htmllink>
+				<xmllink>n/a</xmllink>
+			</leaguelink>
+			<conference>Central</conference>
+			<division>Rainbow</division>
+			<matchinformation>
+			</matchinformation>
+			<roster>
+				<player name=".BLIND">
+					<joindate>9/19/2003</joindate>
+					<position>Team Captain</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=%2EBLIND</htmllink>
+					</links>
+				</player>
+				<player name="[THC]Alias">
+					<joindate>9/22/2003</joindate>
+					<position>Team Captain</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=%5BTHC%5DAlias</htmllink>
+					</links>
+				</player>
+				<player name="[THC]Deathwish">
+					<joindate>9/19/2003</joindate>
+					<position>Player</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=%5BTHC%5DDeathwish</htmllink>
+					</links>
+				</player>
+				<player name="[THC]GMan">
+					<joindate>10/3/2003</joindate>
+					<position>Player</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=%5BTHC%5DGMan</htmllink>
+					</links>
+				</player>
+				<player name="[THC]LisaDog">
+					<joindate>9/30/2003</joindate>
+					<position>Player</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=%5BTHC%5DLisaDog</htmllink>
+					</links>
+				</player>
+				<player name="[THC]M_Modisch">
+					<joindate>9/22/2003</joindate>
+					<position>Player</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=%5BTHC%5DM%5FModisch</htmllink>
+					</links>
+				</player>
+				<player name="[THC]ShinGouki">
+					<joindate>10/7/2003</joindate>
+					<position>Player</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=%5BTHC%5DShinGouki</htmllink>
+					</links>
+				</player>
+				<player name="[THC]Wolfgang">
+					<joindate>9/30/2003</joindate>
+					<position>Player</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=%5BTHC%5DWolfgang</htmllink>
+					</links>
+				</player>
+				<player name="[THC]Wyatt_Earp">
+					<joindate>10/1/2003</joindate>
+					<position>Player</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=%5BTHC%5DWyatt%5FEarp</htmllink>
+					</links>
+				</player>
+				<player name="aethelwulf">
+					<joindate>9/22/2003</joindate>
+					<position>Player</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=aethelwulf</htmllink>
+					</links>
+				</player>
+				<player name="Chenzo">
+					<joindate>9/30/2003</joindate>
+					<position>Player</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=Chenzo</htmllink>
+					</links>
+				</player>
+				<player name="Daver_J">
+					<joindate>9/19/2003</joindate>
+					<position>Team Founder</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=Daver%5FJ</htmllink>
+					</links>
+				</player>
+				<player name="LoneEagle">
+					<joindate>10/2/2003</joindate>
+					<position>Player</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=LoneEagle</htmllink>
+					</links>
+				</player>
+				<player name="Rator">
+					<joindate>10/15/2003</joindate>
+					<position>Player</position>
+					<links>
+						<htmllink>http://www.teamwarfare.com/viewplayer.asp?player=Rator</htmllink>
+					</links>
+				</player>
+			</roster>
+		</league>
+	</competitioninformation>
+</team>
